@@ -68,7 +68,7 @@ li {
 }
 .header-menu__icon {
   fill: #000000;
-  /* transition: fill $duration $timing-function; */
+  transition: #afb1b8 250ms cubic-bezier(0.4, 0, 0.2, 1);
 
   .header-menu__btn:hover &,
   .header-menu__btn:focus & {
